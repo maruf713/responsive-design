@@ -1,0 +1,277 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poppins", sans-serif;
+}
+a, a:hover{
+    text-decoration: none;
+}
+/* global css code start here */
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 50%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width: 33.33%;
+    float: left;
+}
+
+/* global css code end here */
+/* header css start */
+.header{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+    border-bottom: 1px solid #e6e1e1;
+}
+.logo{
+    display: block;
+}
+.navbar{
+    width: 100%;
+    float: left;
+    text-align: right;
+}
+.navbar li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar li a{
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 10px 0px 0px 35px;
+}
+/* header css end */
+
+/* banner section css code start */
+.banner{
+    width: 100%;
+    float: left;
+    padding: 75px 0px;
+    text-align: center;
+}
+.banner h1{
+    font-size: 60px;
+    line-height: 70px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+
+}
+.banner h1 span{
+    color: #008AFF;
+}
+.banner p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.banner img{
+    width: 70%;
+}
+.success{
+    width: 100%;
+    float: left;
+    padding: 0px 0px 80px;
+}
+.success-left{
+    width: 95%;
+    float: left;
+    text-align: right;
+}
+.success-left h1{
+    font-size: 60px;
+    line-height: 70px;
+    color: #F15061;
+    margin: 0px 0px 10px;
+
+}
+.success-left p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.success-right{
+    width: 95%;
+    float: left;
+}
+
+.success-right h1{
+    font-size: 60px;
+    line-height: 70px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+
+}
+
+/* banner section css code end */
+
+/* feature section css code start */
+
+.feature{
+    width: 100%;
+    float: left;
+    padding: 0px 0px 80px;
+}
+.feature-inner{
+    width: 80%;
+    float: left;
+    padding: 40px 25px;
+}
+.feature-inner img{
+    width: 100%;
+    height: 225px;
+    padding: 0px 0px 10px;
+}
+.feature-inner h4{
+    font-size: 22px;
+    line-height: 32px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.feature-inner p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.bg-1{
+    background: #FDEBED;
+}
+.bg-2{
+    background: #EBF9F4;
+}
+.bg-3{
+    background: #FFF7E8;
+}
+
+/* feature section css code end */
+
+/* footer css start */
+
+.footer{
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+    background: #008AFF;
+}
+.footer p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+
+}
+.footer span{
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+/* footer css end */
+
+/* about us page css */
+
+.about{
+    width: 100%;
+    float: left;
+    padding: 75px 0px;
+    text-align: left;
+}
+.inner-about h1{
+    font-size: 30px;
+    line-height: 70px;
+    color: #008AFF;
+    margin: 0px 0px 10px;
+
+}
+.inner-about p{
+    font-size: 18px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.inner-about h2{
+    font-size: 30px;
+    line-height: 70px;
+    color: #0F2656;
+    margin: 0px 0px;
+}
+
+/* about us page css */
+
+/* contact page css start */
+
+.form{
+    width: 100%;
+    margin-top: px;
+
+}
+.login-form{
+    width: 600px;
+    margin: 30px auto;
+    padding: 40px;
+    background: #eee;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+.form-group{
+    width: 100%;
+}
+
+.form-group label{
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+}
+.form-controler{
+    width: 95%;
+    padding: 10PX;
+    font-size: 14px;
+    color: #777;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.btn-controler{
+    padding: 15px 45px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background: #008AFF;
+    color: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+    transition: .8s;
+}
+.btn-controler:hover{
+    background: #fff;
+    color: black;
+    border: 1px solid black;
+}
+
+/* contact page css end */

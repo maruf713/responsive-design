@@ -1,0 +1,594 @@
+/* responsive css start */
+
+/* css 279-319 start */
+
+@media(min-width: 279px ) and ( max-width: 319px) {
+    .container{
+        width: 95%;
+        float: left;
+        
+    }
+
+    .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .logo{
+        display: block;
+        text-align: center;
+    }
+    .navbar{
+        text-align: center;
+    }
+    .navbar li a{
+        font-size: 9px;
+        margin: 10px 0px 0px 15px;
+    }
+    .banner{
+        padding: 25px 0px;
+    }
+    .banner h1{
+        font-size: 24px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 9px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .success{
+        padding: 0px 0px 25px;
+    }
+    .success-left{
+        text-align: left;
+    }
+    .success-left h1{
+        font-size: 24px;
+        line-height: 1.2em;
+    }
+    .success-left p{
+        font-size: 9px;
+        line-height: 1.7em;
+    }
+    .success-right h1{
+        font-size: 24px;
+        line-height: 1.2em;
+    }
+    .feature{
+        padding: 0px 0px 25px;
+    }
+    .feature-inner{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .feature-inner h4{
+        font-size: 14px;
+        line-height: 1.2em;
+    }
+    .feature-inner p{
+        font-size: 9px;
+        line-height: 1.7em;
+    }
+    .footer p{
+        font-size: 9px;
+        line-height: 1.7em;
+    }
+    /* about page css start */
+
+      .about{
+        padding: 25px 0px;
+      }
+      .inner-about{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+      }
+      .inner-about h1{
+        font-size: 24px;
+        line-height: 1.2em;
+
+      }
+      .inner-about p{
+        font-size: 9px; 
+        line-height: 1.7em;
+      }
+      .inner-about h2{
+        font-size: 24px;
+        line-height: 1.2em;
+      }
+    /* about page css end */
+
+    /* contact page css  */
+
+    .form{
+        padding: 25px 0px;
+    }
+    .login-form{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .form-group{
+        width: 100%;
+    }
+    .form-controler{
+        font-size: 9px; 
+        line-height: 1.7em;
+    }
+    .btn-controler{
+        font-size: 9px; 
+        line-height: 1.7em;
+    }
+
+    /* contact page end */
+}
+
+/* css 279-319 end */
+
+/* css 320-480 start */
+@media(min-width: 320px ) and ( max-width: 480px) {
+
+    
+    .container{
+        width: 95%;
+        float: left;
+        
+    }
+
+    .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .logo{
+        display: block;
+        text-align: center;
+    }
+    .navbar{
+        text-align: center;
+    }
+    .navbar li a{
+        font-size: 11px;
+        margin: 10px 0px 0px 15px;
+    }
+    .banner{
+        padding: 30px 0px;
+    }
+    .banner h1{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .success{
+        padding: 0px 0px 30px;
+    }
+    .success-left{
+        text-align: left;
+    }
+    .success-left h1{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .success-left p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+    .success-right h1{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .feature{
+        padding: 0px 0px 30px;
+    }
+    .feature-inner{
+        width: 90%;
+        float: left;
+        padding: 40px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .feature-inner h4{
+        font-size: 16px;
+        line-height: 1.2em;
+    }
+    .feature-inner p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+    .footer p{
+        font-size: 11px;
+        line-height: 1.7em;
+    }
+
+      /* about page css start */
+
+      .about{
+        padding: 30px 0px;
+      }
+      .inner-about{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+      }
+      .inner-about h1{
+        font-size: 30px;
+        line-height: 1.2em;
+
+      }
+      .inner-about p{
+        font-size: 11px; 
+        line-height: 1.7em;
+      }
+      .inner-about h2{
+        font-size: 30px;
+        line-height: 1.2em;
+      }
+    /* about page css end */
+
+    /* contact page css  */
+
+    .form{
+        padding: 30px 0px;
+    }
+    .login-form{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .form-group{
+        width: 100%;
+    }
+    .form-controler{
+        font-size: 11px; 
+        line-height: 1.7em;
+    }
+    .btn-controler{
+        font-size: 11px; 
+        line-height: 1.7em;
+    }
+
+    /* contact page end */
+
+}
+/* css 320-480 end */
+
+/* css 481-767 start */
+@media(min-width: 481px ) and ( max-width: 767px) {
+    .container{
+        width: 95%;
+        float: left;
+        
+    }
+
+    .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .logo{
+        display: block;
+        text-align: center;
+    }
+    .navbar{
+        text-align: center;
+    }
+    .navbar li a{
+        font-size: 12px;
+        margin: 10px 0px 0px 15px;
+    }
+    .banner{
+        padding: 35px 0px;
+    }
+    .banner h1{
+        font-size: 32px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 12px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .success{
+        padding: 0px 0px 35px;
+    }
+    .success-left{
+        text-align: left;
+    }
+    .success-left h1{
+        font-size: 32px;
+        line-height: 1.2em;
+    }
+    .success-left p{
+        font-size: 12px;
+        line-height: 1.7em;
+    }
+    .success-right h1{
+        font-size: 32px;
+        line-height: 1.2em;
+    }
+    .feature{
+        padding: 0px 0px 35px;
+    }
+    .feature-inner{
+        width: 90%;
+        float: left;
+        padding: 40px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .feature-inner h4{
+        font-size: 17px;
+        line-height: 1.2em;
+    }
+    .feature-inner p{
+        font-size: 12px;
+        line-height: 1.7em;
+    }
+    .footer p{
+        font-size: 12px;
+        line-height: 1.7em;
+    }
+
+      /* about page css start */
+
+      .about{
+        padding: 35px 0px;
+      }
+      .inner-about{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+      }
+      .inner-about h1{
+        font-size: 32px;
+        line-height: 1.2em;
+
+      }
+      .inner-about p{
+        font-size: 12px; 
+        line-height: 1.7em;
+      }
+      .inner-about h2{
+        font-size: 32px;
+        line-height: 1.2em;
+      }
+    /* about page css end */
+
+    /* contact page css  */
+
+    .form{
+        padding: 35px 0px;
+    }
+    .login-form{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .form-group{
+        width: 100%;
+    }
+    .form-controler{
+        font-size: 12px; 
+        line-height: 1.7em;
+    }
+    .btn-controler{
+        font-size: 12px; 
+        line-height: 1.7em;
+    }
+
+    /* contact page end */
+}
+
+/* css 481-767 end */
+
+/* (Iped mini) css 768-1024 start */
+
+@media(min-width: 768px ) and ( max-width: 1024px) {
+    .container{
+        width: 95%;
+        float: left;
+        
+    }
+
+    .row{
+        width: 100%;
+        float: left;
+        padding: 0px 15px;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width: 100%;
+        float: left;
+    }
+    .logo{
+        display: block;
+        text-align: center;
+    }
+    .navbar{
+        text-align: center;
+    }
+    .navbar li a{
+        font-size: 13px;
+        margin: 10px 0px 0px 15px;
+    }
+    .banner{
+        padding: 30px 0px;
+    }
+    .banner h1{
+        font-size: 34px;
+        line-height: 1.2em;
+    }
+    .banner p{
+        font-size: 13px;
+        line-height: 1.7em;
+    }
+    .banner img{
+        width: 90%;
+    }
+    .success{
+        padding: 0px 0px 40px;
+    }
+    .success-left{
+        text-align: left;
+    }
+    .success-left h1{
+        font-size: 34px;
+        line-height: 1.2em;
+    }
+    .success-left p{
+        font-size: 13px;
+        line-height: 1.7em;
+    }
+    .success-right h1{
+        font-size: 34px;
+        line-height: 1.2em;
+    }
+    .feature{
+        padding: 0px 0px 40px;
+    }
+    .feature-inner{
+        width: 98%;
+        float: left;
+        padding: 40px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .feature-inner h4{
+        font-size: 18px;
+        line-height: 1.2em;
+    }
+    .feature-inner p{
+        font-size: 13px;
+        line-height: 1.7em;
+    }
+    .footer p{
+        font-size: 13px;
+        line-height: 1.7em;
+    }
+
+      /* about page css start */
+
+      .about{
+        padding: 30px 0px;
+      }
+      .inner-about{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+      }
+      .inner-about h1{
+        font-size: 34px;
+        line-height: 1.2em;
+
+      }
+      .inner-about p{
+        font-size: 13px; 
+        line-height: 1.7em;
+      }
+      .inner-about h2{
+        font-size: 32px;
+        line-height: 1.2em;
+      }
+    /* about page css end */
+
+    /* contact page css  */
+
+    .form{
+        padding: 30px 0px;
+    }
+    .login-form{
+        width: 83%;
+        float: left;
+        padding: 25px 15px ;
+        margin: 0px 0px 15px;
+        text-align: center;
+    }
+    .form-group{
+        width: 100%;
+    }
+    .form-controler{
+        font-size: 13px; 
+        line-height: 1.7em;
+    }
+    .btn-controler{
+        font-size: 13px; 
+        line-height: 1.7em;
+    }
+
+    /* contact page end */
+}
+
+/* (Iped mini)  css 768-1024 end */
+
+/* responsive css end */
